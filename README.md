@@ -1,7 +1,7 @@
 # Educase Frontend Assignment 
 
 ## 🌍 Deployment URL  
-🔗 **Live App:** [https://popx-educase.vercel.app](https://popx-educase.vercel.app/)
+🔗 **Live App:** [https://popx-educase.vercel.app](https://popx-educase-rho.vercel.app/)
 
 
 ## 🚀 Project Overview  
