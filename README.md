@@ -24,7 +24,7 @@ A pixel-perfect mobile app UI built with React and Tailwind CSS. Includes Home, 
 
 ## 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/DatlaRakeshVarma/PopX-Educase.git
+git clone [https://github.com/DatlaRakeshVarma/PopX-Educase.git](https://github.com/DatlaRakeshVarma/PopX-Educase.git)
 ```
 
 ## 2️⃣  Install Dependencies
